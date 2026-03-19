@@ -1,0 +1,66 @@
+{
+    "window_title": "明日方舟",
+    "image_dir": "image",
+    "log_path": "log.txt",
+    "purchase": {
+        "left": 464,
+        "top": 593,
+        "dx": 147,
+        "w": 10,
+        "h": 16,
+        "count": 5,
+        "offset_y": 70
+    },
+    "sale": {
+        "left": 188,
+        "top": 499,
+        "dx": 82,
+        "w": 82,
+        "h": 67,
+        "count": 10
+    },
+    "calibrate_area": {
+        "left": 188,
+        "top": 499,
+        "dx": 82,
+        "w": 82,
+        "h": 67,
+        "count": 10
+    },
+    "digit": {
+        "left": 464,
+        "top": 593,
+        "dx": 147,
+        "w": 10,
+        "h": 16,
+        "count": 5
+    },
+    "refresh_pos": [
+        1228,
+        526
+    ],
+    "confirm_pos": [
+        758,
+        372
+    ],
+    "balance_region": {
+        "offset_x": 1208,
+        "offset_y": 578,
+        "w": 35,
+        "h": 22
+    },
+    "need_check_region": {
+        "left": 34,
+        "top": 458,
+        "w": 50,
+        "h": 14
+    },
+    "watch_region_ratio": 0.6,
+    "target_digits": [
+        0,
+        1,
+        2,
+        3
+    ],
+    "calibrate_max_rounds": 20
+}
