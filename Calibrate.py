@@ -148,8 +148,4 @@ def main():
     print("\n校准完成！")
 
 if __name__ == "__main__":
-    win_left, win_top = get_window_origin()
-    img = pyautogui.screenshot(region=(win_left + 29, win_top + 431, 54, 42))
-    img.save(os.path.join(IMAGE_DIR, "need0.png"))
-    exit()
     main()
