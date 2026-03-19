@@ -6,7 +6,7 @@ from _Run_ import run
 
 # 运行前需要先校准，运行 Calibrate.py
 
-SCT_URL = "https://sctapi.ftqq.com/.send"
+SCT_URL = "https://sctapi.ftqq.com/.send" # 使用server酱
 
 start_ts = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
